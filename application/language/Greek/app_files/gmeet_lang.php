@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="Κλειδί API";
+$lang['api_secret'] ="API μυστικό";
+$lang['cancelled'] ="Ακυρώθηκε";
+$lang['class_date'] ="Ημερομηνία τάξης";
+$lang['class_duration_minutes'] ="Διάρκεια τάξης (λεπτά)";
+$lang['class_title'] ="Τίτλος τάξης";
+$lang['created_for'] ="Δημιουργήθηκε για";
+$lang['finished'] ="Πεπερασμένος";
+$lang['gmeet'] ="Έλα"; 
+$lang['gmeet_live_classes'] ="Gmeet Ζωντανά μαθήματα";
+$lang['gmeet_online_classes'] ="Gmeet Ζωντανά μαθήματα"; 
+$lang['gmeet_online_classes_start'] ="Έναρξη ζωντανών μαθημάτων Gmeet";
+$lang['gmeet_online_meeting'] ="Gmeet Live Συνάντηση";
+$lang['gmeet_online_meeting_start'] ="Έναρξη ζωντανής συνάντησης Gmeet";
+$lang['how_to_get'] ="Πώς να πάρει"; 
+$lang['invited'] ="Καλεσμένος";
+$lang['join'] ="Συμμετοχή";
+$lang['live_class'] ="Ζωντανά μαθήματα";
+$lang['live_meeting'] ="Ζωντανή συνάντηση";
+$lang['meeting_duration_minutes'] ="Διάρκεια συνεδρίασης (Λεπτά)";
+$lang['setting'] ="Σύνθεση";
+$lang['use_google_api'] ="Χρησιμοποιήστε το Google Api";

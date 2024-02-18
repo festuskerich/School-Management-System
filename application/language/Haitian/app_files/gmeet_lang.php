@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="API kle";
+$lang['api_secret'] ="API sekrè";
+$lang['cancelled'] ="Anile";
+$lang['class_date'] ="Dat Gwoup la";
+$lang['class_duration_minutes'] ="Gwoup dire (minit)";
+$lang['class_title'] ="Tit klas la";
+$lang['created_for'] ="Kreye pou";
+$lang['finished'] ="Fini";
+$lang['gmeet'] ="Gmeet";
+$lang['gmeet_live_classes'] ="Gmeet Klas Live";
+$lang['gmeet_online_classes'] ="Gmeet Klas Live";
+$lang['gmeet_online_classes_start'] ="Gmeet Klas Live Kòmanse";
+$lang['gmeet_online_meeting'] ="Gmeet Reyinyon Live";
+$lang['gmeet_online_meeting_start'] ="Gmeet Live Reyinyon Kòmanse";
+$lang['how_to_get'] ="Kòman ou kapab jwenn";
+$lang['invited'] ="Envite"; 
+$lang['join'] ="Join";
+$lang['live_class'] ="Klas Live";
+$lang['live_meeting'] ="Viv Reyinyon";
+$lang['meeting_duration_minutes'] ="Duration Reyinyon (Minit)";
+$lang['setting'] ="Anviwònman";
+$lang['use_google_api'] ="Sèvi ak Google Api";

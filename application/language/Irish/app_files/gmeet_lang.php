@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="Eochair API";
+$lang['api_secret'] ="Rúnda API";
+$lang['cancelled'] ="Cealaithe";
+$lang['class_date'] ="Dáta Ranga";
+$lang['class_duration_minutes'] ="Fad an Ranga (Miontuairiscí)";
+$lang['class_title'] ="Teideal Ranga";
+$lang['created_for'] ="Cruthaithe Do";
+$lang['finished'] ="Críochnaithe";
+$lang['gmeet'] ="Gmeet";
+$lang['gmeet_live_classes'] ="Ranganna Beo Gmeet";
+$lang['gmeet_online_classes'] ="Ranganna Beo Gmeet";
+$lang['gmeet_online_classes_start'] ="Tosaíonn Ranganna Beo Gmeet";
+$lang['gmeet_online_meeting'] ="Cruinniú Beo Gmeet";
+$lang['gmeet_online_meeting_start'] ="Tús Cruinniú Beo Gmeet";
+$lang['how_to_get'] ="Conas a Fháil";
+$lang['invited'] ="Cuireadh";
+$lang['join'] ="Bí páirteach";
+$lang['live_class'] ="Ranganna Beo";
+$lang['live_meeting'] ="Cruinniú Beo";
+$lang['meeting_duration_minutes'] ="Fad Cruinnithe (Miontuairiscí)";
+$lang['setting'] ="Socrú";
+$lang['use_google_api'] ="Úsáid Google Api";

@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="API Anahtarı";
+$lang['api_secret'] ="API Sırrı";
+$lang['cancelled'] ="İptal edildi";
+$lang['class_date'] ="Sınıf Tarihi";
+$lang['class_duration_minutes'] ="Ders Süresi (Dakika)";
+$lang['class_title'] ="Sınıf Başlığı";
+$lang['created_for'] ="İçin Oluşturuldu";
+$lang['finished'] ="Bitti";
+$lang['gmeet'] ="Gmeet";
+$lang['gmeet_live_classes'] ="Gmeet Canlı Sınıfları";
+$lang['gmeet_online_classes'] ="Gmeet Canlı Sınıfları";
+$lang['gmeet_online_classes_start'] ="Gmeet Canlı Dersleri Başlangıcı";
+$lang['gmeet_online_meeting'] ="Gmeet Canlı Toplantı";
+$lang['gmeet_online_meeting_start'] ="Gmeet Live Meeting Başlangıcı";
+$lang['how_to_get'] ="Nasıl alınır";
+$lang['invited'] ="Davet edildi";
+$lang['join'] ="Katılmak";
+$lang['live_class'] ="Canlı Dersler";
+$lang['live_meeting'] ="Canlı toplantı";
+$lang['meeting_duration_minutes'] ="Toplantı Süresi (Dakika)";
+$lang['setting'] ="Ayar";
+$lang['use_google_api'] ="Google Api&#39;yi kullanın";

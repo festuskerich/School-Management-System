@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="API atslēga";
+$lang['api_secret'] ="API noslēpums";
+$lang['cancelled'] ="Atcelts";
+$lang['class_date'] ="Nodarbības datums";
+$lang['class_duration_minutes'] ="Nodarbības ilgums (minūtes)";
+$lang['class_title'] ="Klases nosaukums";
+$lang['created_for'] ="Izveidots";
+$lang['finished'] ="Pabeigts";
+$lang['gmeet'] ="Gmeet";
+$lang['gmeet_live_classes'] ="Gmeet Live nodarbības";
+$lang['gmeet_online_classes'] ="Gmeet Live nodarbības";
+$lang['gmeet_online_classes_start'] ="Sākt Gmeet Live nodarbības";
+$lang['gmeet_online_meeting'] ="Gmeet Live Meeting";
+$lang['gmeet_online_meeting_start'] ="Gmeet Live sapulces sākums";
+$lang['how_to_get'] ="Kā nokļūt";
+$lang['invited'] ="Uzaicināts";
+$lang['join'] ="Pievienojieties";
+$lang['live_class'] ="Live klases";
+$lang['live_meeting'] ="Tiešraides sapulce";
+$lang['meeting_duration_minutes'] ="Sanāksmes ilgums (minūtes)";
+$lang['setting'] ="Iestatīšana";
+$lang['use_google_api'] ="Izmantojiet Google Api";

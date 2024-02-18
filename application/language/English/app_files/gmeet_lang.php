@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] = "API Key";
+$lang['api_secret'] = "API Secret";
+$lang['cancelled'] = "Cancelled";
+$lang['class_date'] = "Class Date";
+$lang['class_duration_minutes'] = "Class Duration (Minutes)";
+$lang['class_title'] = "Class Title";
+$lang['created_for'] = "Created For";
+$lang['finished'] = "Finished";
+$lang['gmeet'] = "Gmeet";
+$lang['gmeet_live_classes'] = "Gmeet Live Classes";
+$lang['gmeet_online_classes'] = "Gmeet Live Classes";
+$lang['gmeet_online_classes_start'] = "Gmeet Live Classes Start";
+$lang['gmeet_online_meeting'] = "Gmeet Live Meeting";
+$lang['gmeet_online_meeting_start'] = "Gmeet Live Meeting Start";
+$lang['how_to_get'] = "How To Get";
+$lang['invited'] = "Invited";
+$lang['join'] = "Join";
+$lang['live_class'] = "Live Classes";
+$lang['live_meeting'] = "Live Meeting";
+$lang['meeting_duration_minutes'] = "Meeting Duration (Minutes)";
+$lang['setting'] = "Setting";
+$lang['use_google_api'] = "Use Google Calendar Api";

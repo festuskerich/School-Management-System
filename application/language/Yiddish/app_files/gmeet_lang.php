@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="אַפּי דורכפֿאַל";
+$lang['api_secret'] ="אַפּי סוד";
+$lang['cancelled'] ="קאַנסאַלד";
+$lang['class_date'] ="קלאַס טאָג";
+$lang['class_duration_minutes'] ="קלאַס געדויער (מינוט)";
+$lang['class_title'] ="קלאַס טיטל";
+$lang['created_for'] ="באשאפן פֿאַר";
+$lang['finished'] ="געענדיקט";
+$lang['gmeet'] ="גמעעט";
+$lang['gmeet_live_classes'] ="גמעעט לעבן קלאַססעס";
+$lang['gmeet_online_classes'] ="גמעעט לעבן קלאַססעס";
+$lang['gmeet_online_classes_start'] ="Gmeet לעבן קלאַססעס אָנהייב";
+$lang['gmeet_online_meeting'] ="Gmeet Live Meeting";
+$lang['gmeet_online_meeting_start'] ="Gmeet לעבן פאַרזאַמלונג אָנהייב";
+$lang['how_to_get'] ="ווי צו באַקומען";
+$lang['invited'] ="פאַרבעטן";
+$lang['join'] ="פאַרבינדן";
+$lang['live_class'] ="לעבן קלאַססעס";
+$lang['live_meeting'] ="לעבן פאַרזאַמלונג";
+$lang['meeting_duration_minutes'] ="געדויער פאַרזאַמלונג (מינוט)";
+$lang['setting'] ="באַשטעטיקן";
+$lang['use_google_api'] ="ניצן Google Api";

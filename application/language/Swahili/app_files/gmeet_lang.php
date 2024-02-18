@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="Ufunguo wa API";
+$lang['api_secret'] ="Siri ya API";
+$lang['cancelled'] ="Imeghairiwa";
+$lang['class_date'] ="Tarehe ya Darasa";
+$lang['class_duration_minutes'] ="Muda wa Darasa (Dakika)";
+$lang['class_title'] ="Kichwa cha Darasa";
+$lang['created_for'] ="Imeundwa Kwa";
+$lang['finished'] ="Imemalizika";
+$lang['gmeet'] ="Mchanganyiko";
+$lang['gmeet_live_classes'] ="Gmeet Madarasa ya Moja kwa Moja";
+$lang['gmeet_online_classes'] ="Gmeet Madarasa ya Moja kwa Moja";
+$lang['gmeet_online_classes_start'] ="Anza Madarasa ya Moja kwa Moja Anza";
+$lang['gmeet_online_meeting'] ="Mkutano wa Moja kwa Moja wa Gmeet";
+$lang['gmeet_online_meeting_start'] ="Anzisha Mkutano wa Moja kwa Moja wa Gmeet";
+$lang['how_to_get'] ="Jinsi ya Kupata";
+$lang['invited'] ="Umealikwa";
+$lang['join'] ="Jiunge";
+$lang['live_class'] ="Darasa za Moja kwa Moja";
+$lang['live_meeting'] ="Mkutano wa Moja kwa Moja";
+$lang['meeting_duration_minutes'] ="Muda wa Mkutano (Dakika)";
+$lang['setting'] ="Kuweka";
+$lang['use_google_api'] ="Tumia Google Api";

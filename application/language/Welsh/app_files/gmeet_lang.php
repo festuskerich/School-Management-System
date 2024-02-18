@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="Allwedd API";
+$lang['api_secret'] ="Cyfrinach API";
+$lang['cancelled'] ="Wedi&#39;i ganslo";
+$lang['class_date'] ="Dyddiad Dosbarth";
+$lang['class_duration_minutes'] ="Hyd y Dosbarth (Cofnodion)";
+$lang['class_title'] ="Teitl y Dosbarth";
+$lang['created_for'] ="Wedi&#39;i greu ar gyfer";
+$lang['finished'] ="Gorffennwyd";
+$lang['gmeet'] ="Gmeet";
+$lang['gmeet_live_classes'] ="Dosbarthiadau Gmeet Live";
+$lang['gmeet_online_classes'] ="Dosbarthiadau Gmeet Live";
+$lang['gmeet_online_classes_start'] ="Dosbarthiadau Gmeet Live yn Cychwyn";
+$lang['gmeet_online_meeting'] ="Cyfarfod Byw Gmeet";
+$lang['gmeet_online_meeting_start'] ="Cychwyn Cyfarfod Byw Gmeet";
+$lang['how_to_get'] ="Sut i Gael";
+$lang['invited'] ="Gwahoddwyd";
+$lang['join'] ="Ymunwch";
+$lang['live_class'] ="Dosbarthiadau Byw";
+$lang['live_meeting'] ="Cyfarfod Byw";
+$lang['meeting_duration_minutes'] ="Hyd y Cyfarfod (Cofnodion)";
+$lang['setting'] ="Lleoliad";
+$lang['use_google_api'] ="Defnyddiwch Google Api";

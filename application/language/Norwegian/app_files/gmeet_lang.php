@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="API-nøkkel";
+$lang['api_secret'] ="API-hemmelighet";
+$lang['cancelled'] ="avbrutt";
+$lang['class_date'] ="Klassedato";
+$lang['class_duration_minutes'] ="Klassens varighet (minutter)";
+$lang['class_title'] ="Klassetittel";
+$lang['created_for'] ="Laget for";
+$lang['finished'] ="Ferdig";
+$lang['gmeet'] ="Gmeet";
+$lang['gmeet_live_classes'] ="Gmeet Live-klasser";
+$lang['gmeet_online_classes'] ="Gmeet Live-klasser";
+$lang['gmeet_online_classes_start'] ="Gmeet Live Classes Start";
+$lang['gmeet_online_meeting'] ="Gmeet Live Meeting";
+$lang['gmeet_online_meeting_start'] ="Gmeet Live Meeting Start";
+$lang['how_to_get'] ="Hvordan få";
+$lang['invited'] ="Invitert";
+$lang['join'] ="Bli med";
+$lang['live_class'] ="Live klasser";
+$lang['live_meeting'] ="Direkte møte";
+$lang['meeting_duration_minutes'] ="Møtets varighet (minutter)";
+$lang['setting'] ="Omgivelser";
+$lang['use_google_api'] ="Bruk Google Api";

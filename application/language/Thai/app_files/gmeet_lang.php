@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="คีย์ API";
+$lang['api_secret'] ="ความลับของ API";
+$lang['cancelled'] ="ยกเลิก";
+$lang['class_date'] ="วันที่ของชั้นเรียน";
+$lang['class_duration_minutes'] ="ระยะเวลาเรียน (นาที)";
+$lang['class_title'] ="ชื่อชั้นเรียน";
+$lang['created_for'] ="สร้างขึ้นสำหรับ";
+$lang['finished'] ="เสร็จแล้ว";
+$lang['gmeet'] ="Gmeet";
+$lang['gmeet_live_classes'] ="Gmeet Live Classes";
+$lang['gmeet_online_classes'] ="Gmeet Live Classes";
+$lang['gmeet_online_classes_start'] ="Gmeet Live Classes เริ่มต้น";
+$lang['gmeet_online_meeting'] ="Gmeet Live Meeting";
+$lang['gmeet_online_meeting_start'] ="เริ่มการประชุม Gmeet Live";
+$lang['how_to_get'] ="วิธีการที่จะได้รับ";
+$lang['invited'] ="เชิญ";
+$lang['join'] ="เข้าร่วม";
+$lang['live_class'] ="ชั้นเรียนสด";
+$lang['live_meeting'] ="การประชุมสด";
+$lang['meeting_duration_minutes'] ="ระยะเวลาการประชุม (นาที)";
+$lang['setting'] ="การตั้งค่า";
+$lang['use_google_api'] ="ใช้ Google Api";

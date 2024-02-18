@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="Klíč API";
+$lang['api_secret'] ="Tajemství API";
+$lang['cancelled'] ="Zrušeno";
+$lang['class_date'] ="Datum třídy";
+$lang['class_duration_minutes'] ="Délka kurzu (minuty)";
+$lang['class_title'] ="Název třídy";
+$lang['created_for'] ="Vytvořeno pro";
+$lang['finished'] ="Hotovo";
+$lang['gmeet'] ="Gmeet"; 
+$lang['gmeet_live_classes'] ="Živé třídy Gmeet";
+$lang['gmeet_online_classes'] ="Živé třídy Gmeet";
+$lang['gmeet_online_classes_start'] ="Živé třídy Gmeet začínají";
+$lang['gmeet_online_meeting'] ="Živé setkání Gmeet";
+$lang['gmeet_online_meeting_start'] ="Gmeet Live Meeting Start";
+$lang['how_to_get'] ="Jak se dostat";
+$lang['invited'] ="Pozván";
+$lang['join'] ="Připojit";
+$lang['live_class'] ="Živé třídy";
+$lang['live_meeting'] ="Živé setkání";
+$lang['meeting_duration_minutes'] ="Délka schůzky (minuty)";
+$lang['setting'] ="Nastavení";
+$lang['use_google_api'] ="Použijte Google Api";

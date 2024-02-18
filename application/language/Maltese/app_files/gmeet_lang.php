@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="Ċavetta API";
+$lang['api_secret'] ="Sigriet API";
+$lang['cancelled'] ="Imħassar";
+$lang['class_date'] ="Data tal-Klassi";
+$lang['class_duration_minutes'] ="Tul tal-Klassi (Minuti)";
+$lang['class_title'] ="Titolu tal-Klassi";
+$lang['created_for'] ="Maħluq għal";
+$lang['finished'] ="Lest";
+$lang['gmeet'] ="Gmeet";
+$lang['gmeet_live_classes'] ="Klassijiet Gmeet Live";
+$lang['gmeet_online_classes'] ="Klassijiet Gmeet Live";
+$lang['gmeet_online_classes_start'] ="Jibdew il-Klassijiet Gmeet Live";
+$lang['gmeet_online_meeting'] ="Laqgħa Gmeet Live";
+$lang['gmeet_online_meeting_start'] ="Gmeet Live Meeting Start";
+$lang['how_to_get'] ="Kif Tikseb";
+$lang['invited'] ="Mistiedna";
+$lang['join'] ="Jingħaqad";
+$lang['live_class'] ="Klassijiet Ħajjin";
+$lang['live_meeting'] ="Laqgħa Ħajja";
+$lang['meeting_duration_minutes'] ="Tul tal-Laqgħa (Minuti)";
+$lang['setting'] ="Twaqqif";
+$lang['use_google_api'] ="Uża Google Api";

@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="API යතුර";
+$lang['api_secret'] ="API රහස";
+$lang['cancelled'] ="අවලංගු කළා";
+$lang['class_date'] ="පන්ති දිනය";
+$lang['class_duration_minutes'] ="පන්ති කාලය (මිනිත්තු)";
+$lang['class_title'] ="පන්ති මාතෘකාව";
+$lang['created_for'] ="සඳහා නිර්මාණය කරන ලදි";
+$lang['finished'] ="අවසන්";
+$lang['gmeet'] ="ග්මීට්";
+$lang['gmeet_live_classes'] ="Gmeet සජීවී පන්ති";
+$lang['gmeet_online_classes'] ="Gmeet සජීවී පන්ති"; 
+$lang['gmeet_online_classes_start'] ="Gmeet සජීවී පන්ති ආරම්භ කරන්න";
+$lang['gmeet_online_meeting'] ="Gmeet සජීවී රැස්වීම";
+$lang['gmeet_online_meeting_start'] ="Gmeet සජීවී රැස්වීම ආරම්භය";
+$lang['how_to_get'] ="ලබා ගන්නේ කෙසේද";
+$lang['invited'] ="ආරාධනා";
+$lang['join'] ="එක්වන්න";
+$lang['live_class'] ="සජීවී පන්ති";
+$lang['live_meeting'] ="සජීවී රැස්වීම";
+$lang['meeting_duration_minutes'] ="රැස්වීමේ කාලය (මිනිත්තු)";
+$lang['setting'] ="සැකසුම";
+$lang['use_google_api'] ="Google Api භාවිතා කරන්න";

@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="API কী";
+$lang['api_secret'] ="এপিআই সিক্রেট";
+$lang['cancelled'] ="বাতিল হয়েছে";
+$lang['class_date'] ="ক্লাসের তারিখ";
+$lang['class_duration_minutes'] ="ক্লাস সময়কাল (মিনিট)";
+$lang['class_title'] ="ক্লাস শিরোনাম";
+$lang['created_for'] ="জন্য তৈরি";
+$lang['finished'] ="সমাপ্ত";
+$lang['gmeet'] ="গেমিট"; 
+$lang['gmeet_live_classes'] ="গেমেট লাইভ ক্লাস";
+$lang['gmeet_online_classes'] ="গেমেট লাইভ ক্লাস";
+$lang['gmeet_online_classes_start'] ="গেমেট লাইভ ক্লাস শুরু করুন";
+$lang['gmeet_online_meeting'] ="গেমেট লাইভ মিটিং";
+$lang['gmeet_online_meeting_start'] ="গেমেট লাইভ মিটিং শুরু";
+$lang['how_to_get'] ="কিভাবে পাবো";
+$lang['invited'] ="আমন্ত্রিত";
+$lang['join'] ="যোগদান";
+$lang['live_class'] ="লাইভ ক্লাস";
+$lang['live_meeting'] ="সরাসরি সভা";
+$lang['meeting_duration_minutes'] ="সভার সময়কাল (মিনিট)";
+$lang['setting'] ="স্থাপন";
+$lang['use_google_api'] ="গুগল এপিআই ব্যবহার করুন";

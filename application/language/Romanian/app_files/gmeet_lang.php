@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="Cheie API";
+$lang['api_secret'] ="Secret API";
+$lang['cancelled'] ="Anulat";
+$lang['class_date'] ="Data clasei";
+$lang['class_duration_minutes'] ="Durata clasei (minute)";
+$lang['class_title'] ="Titlul clasei";
+$lang['created_for'] ="Creat pentru";
+$lang['finished'] ="Terminat";
+$lang['gmeet'] ="Gmeet";
+$lang['gmeet_live_classes'] ="Cursuri Gmeet Live";
+$lang['gmeet_online_classes'] ="Cursuri Gmeet Live";
+$lang['gmeet_online_classes_start'] ="Începe cursurile Gmeet Live";
+$lang['gmeet_online_meeting'] ="Gmeet Live Meeting";
+$lang['gmeet_online_meeting_start'] ="Începe întâlnirea Gmeet Live";
+$lang['how_to_get'] ="Cum să obțineți"; 
+$lang['invited'] ="Invitat";
+$lang['join'] ="A te alatura";
+$lang['live_class'] ="Cursuri live";
+$lang['live_meeting'] ="Intalnire live";
+$lang['meeting_duration_minutes'] ="Durata întâlnirii (minute)";
+$lang['setting'] ="Setare";
+$lang['use_google_api'] ="Folosiți Google Api";

@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="Kunci API";
+$lang['api_secret'] ="Rahsia API";
+$lang['cancelled'] ="Dibatalkan";
+$lang['class_date'] ="Tarikh Kelas";
+$lang['class_duration_minutes'] ="Tempoh Kelas (Minit)";
+$lang['class_title'] ="Tajuk Kelas";
+$lang['created_for'] ="Dibuat untuk";
+$lang['finished'] ="Selesai";
+$lang['gmeet'] ="Terima";
+$lang['gmeet_live_classes'] ="Kelas Live Gmeet";
+$lang['gmeet_online_classes'] ="Gmeet Kelas Langsung"; 
+$lang['gmeet_online_classes_start'] ="Gmeet Kelas Langsung Bermula";
+$lang['gmeet_online_meeting'] ="Mesyuarat Langsung Gmeet";
+$lang['gmeet_online_meeting_start'] ="Permulaan Mesyuarat Gmeet Live";
+$lang['how_to_get'] ="Bagaimana untuk mendapatkan";
+$lang['invited'] ="Dijemput";
+$lang['join'] ="Sertailah";
+$lang['live_class'] ="Kelas Langsung";
+$lang['live_meeting'] ="Pertemuan Langsung";
+$lang['meeting_duration_minutes'] ="Tempoh Mesyuarat (Minit)";
+$lang['setting'] ="Menetapkan";
+$lang['use_google_api'] ="Gunakan Google Api";

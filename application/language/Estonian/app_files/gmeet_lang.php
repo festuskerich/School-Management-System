@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="API võti";
+$lang['api_secret'] ="API saladus";
+$lang['cancelled'] ="Tühistatud";
+$lang['class_date'] ="Klassi kuupäev";
+$lang['class_duration_minutes'] ="Kursuse kestus (minutites)";
+$lang['class_title'] ="Klassi pealkiri";
+$lang['created_for'] ="Loodud";
+$lang['finished'] ="Valmis";
+$lang['gmeet'] ="Gmeet"; 
+$lang['gmeet_live_classes'] ="Gmeet Live klassid";
+$lang['gmeet_online_classes'] ="Gmeet Live klassid";
+$lang['gmeet_online_classes_start'] ="Algavad Gmeet Live klassid";
+$lang['gmeet_online_meeting'] ="Gmeet Otsekohtumine";
+$lang['gmeet_online_meeting_start'] ="Gmeet Live Meeting Start";
+$lang['how_to_get'] ="Kuidas saada";
+$lang['invited'] ="Kutsutud";
+$lang['join'] ="Liitu";
+$lang['live_class'] ="Otsekursused";
+$lang['live_meeting'] ="Otsekohtumine";
+$lang['meeting_duration_minutes'] ="Koosoleku kestus (protokoll)";
+$lang['setting'] ="Seadistamine";
+$lang['use_google_api'] ="Kasutage Google Api";

@@ -1,0 +1,23 @@
+<?php 
+$lang['api_key'] ="API lykill";
+$lang['api_secret'] ="API leyndarmál";
+$lang['cancelled'] ="Hætt við";
+$lang['class_date'] ="Flokksdagsetning";
+$lang['class_duration_minutes'] ="Lengd bekkjar (mínútur)";
+$lang['class_title'] ="Flokkstitill";
+$lang['created_for'] ="Búið til fyrir";
+$lang['finished'] ="Lokið";
+$lang['gmeet'] ="Gmeet";
+$lang['gmeet_live_classes'] ="Lifandi námskeið hjá Gmeet";
+$lang['gmeet_online_classes'] ="Lifandi námskeið hjá Gmeet";
+$lang['gmeet_online_classes_start'] ="Live Tímar hjá Gmeet hefjast";
+$lang['gmeet_online_meeting'] ="Lifandi fundur hjá Gmeet";
+$lang['gmeet_online_meeting_start'] ="Gmeet Live fundur hefst";
+$lang['how_to_get'] ="Hvernig á að ná";
+$lang['invited'] ="Boðið";
+$lang['join'] ="Vertu með";
+$lang['live_class'] ="Lifandi námskeið";
+$lang['live_meeting'] ="Lifandi fundur";
+$lang['meeting_duration_minutes'] ="Lengd fundar (mínútur)";
+$lang['setting'] ="Umgjörð";
+$lang['use_google_api'] ="Notaðu Google Api";
